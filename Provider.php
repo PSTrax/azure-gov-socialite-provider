@@ -1,6 +1,6 @@
 <?php
 
-namespace SocialiteProviders\Azure;
+namespace SocialiteProviders\Azuregov;
 
 use GuzzleHttp\RequestOptions;
 use SocialiteProviders\Manager\OAuth2\AbstractProvider;
